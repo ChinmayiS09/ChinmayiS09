@@ -1,6 +1,6 @@
-#             Hey There,👋 I am Chinmayi S
- 🔭 **I’m currently working on**<br>Building software mini-projects using Python, Java, and C.<br> 👯 **I’m looking to collaborate on**<br>Beginner to intermediate-level software projects, especially in backend development, data structures, or automation using Python or Java.<br>🤝 **I’m looking for help with**<br>Mastering real-world software development practices—like clean code, version control, and system design.<br> 🌱 **I’m currently learning**<br>Object-oriented programming, data structures & algorithms, and backend fundamentals using Python and Java. <br>⚡**Fun fact**<br>I started with circuits, but I fell in love with clean code. Now I'm chasing bugs in code—not in hardware 😉<br>
-
+![icons8-resume-64](https://github.com/user-attachments/assets/6ec2e433-f3b5-4b7f-92d5-218f4b952941)#             Hey There,👋 I am Chinmayi S
+ 🔭 **I’m currently working on**<br>Building software mini-projects using Python, Java, and C.<br> 👯 **I’m looking to collaborate on**<br>Beginner to intermediate-level software projects, especially in backend development, data structures, or automation using Python or Java.<br>🤝 **I’m looking for help with**<br>Mastering real-world software development practices—like clean code, version control, and system design.<br> 🌱 **I’m currently learning**<br>Object-oriented programming, data structures & algorithms, and backend fundamentals using Python and Java. <br>⚡**Fun fact**<br>I started with circuits, but I fell in love with clean code. Now I'm chasing bugs in code—not in hardware 😉<br>📄**Check out my resume**<br>
+**
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/chinmayi-s) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:chinmayisiddaiah2004@gmail.com) 
